@@ -1,0 +1,1 @@
+bu dosya sadece deneme amaçlıdır

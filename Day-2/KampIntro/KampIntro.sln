@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{4FF3FC7E-9C5B-48B7-9B7F-69C0B4A53C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{329D1D2F-7498-4A31-864D-07968D505E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{28693C2A-E878-4408-90CC-8C6FBF7F5802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF3FC7E-9C5B-48B7-9B7F-69C0B4A53C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF3FC7E-9C5B-48B7-9B7F-69C0B4A53C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF3FC7E-9C5B-48B7-9B7F-69C0B4A53C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF3FC7E-9C5B-48B7-9B7F-69C0B4A53C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329D1D2F-7498-4A31-864D-07968D505E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329D1D2F-7498-4A31-864D-07968D505E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329D1D2F-7498-4A31-864D-07968D505E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329D1D2F-7498-4A31-864D-07968D505E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28693C2A-E878-4408-90CC-8C6FBF7F5802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28693C2A-E878-4408-90CC-8C6FBF7F5802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28693C2A-E878-4408-90CC-8C6FBF7F5802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28693C2A-E878-4408-90CC-8C6FBF7F5802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58687679-659C-489B-AAA9-C22B8AF50E0B}
+	EndGlobalSection
+EndGlobal

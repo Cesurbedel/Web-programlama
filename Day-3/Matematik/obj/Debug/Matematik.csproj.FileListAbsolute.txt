@@ -1,0 +1,7 @@
+C:\Users\Cesur\source\repos\KampIntro\Matematik\bin\Debug\Matematik.exe.config
+C:\Users\Cesur\source\repos\KampIntro\Matematik\bin\Debug\Matematik.exe
+C:\Users\Cesur\source\repos\KampIntro\Matematik\bin\Debug\Matematik.pdb
+C:\Users\Cesur\source\repos\KampIntro\Matematik\obj\Debug\Matematik.csproj.AssemblyReference.cache
+C:\Users\Cesur\source\repos\KampIntro\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\Cesur\source\repos\KampIntro\Matematik\obj\Debug\Matematik.exe
+C:\Users\Cesur\source\repos\KampIntro\Matematik\obj\Debug\Matematik.pdb

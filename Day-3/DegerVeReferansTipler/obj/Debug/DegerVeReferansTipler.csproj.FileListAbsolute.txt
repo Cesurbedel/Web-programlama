@@ -1,0 +1,7 @@
+C:\Users\Cesur\source\repos\KampIntro\DegerVeReferansTipler\bin\Debug\DegerVeReferansTipler.exe.config
+C:\Users\Cesur\source\repos\KampIntro\DegerVeReferansTipler\bin\Debug\DegerVeReferansTipler.exe
+C:\Users\Cesur\source\repos\KampIntro\DegerVeReferansTipler\bin\Debug\DegerVeReferansTipler.pdb
+C:\Users\Cesur\source\repos\KampIntro\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\Cesur\source\repos\KampIntro\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.exe
+C:\Users\Cesur\source\repos\KampIntro\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.pdb
+C:\Users\Cesur\source\repos\KampIntro\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.csproj.AssemblyReference.cache

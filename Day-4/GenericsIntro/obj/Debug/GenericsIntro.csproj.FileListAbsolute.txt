@@ -1,0 +1,7 @@
+C:\Users\Cesur\source\repos\KampIntro\GenericsIntro\bin\Debug\GenericsIntro.exe.config
+C:\Users\Cesur\source\repos\KampIntro\GenericsIntro\bin\Debug\GenericsIntro.exe
+C:\Users\Cesur\source\repos\KampIntro\GenericsIntro\bin\Debug\GenericsIntro.pdb
+C:\Users\Cesur\source\repos\KampIntro\GenericsIntro\obj\Debug\GenericsIntro.csproj.AssemblyReference.cache
+C:\Users\Cesur\source\repos\KampIntro\GenericsIntro\obj\Debug\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\Cesur\source\repos\KampIntro\GenericsIntro\obj\Debug\GenericsIntro.exe
+C:\Users\Cesur\source\repos\KampIntro\GenericsIntro\obj\Debug\GenericsIntro.pdb

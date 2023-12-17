@@ -1,0 +1,7 @@
+C:\Users\Cesur\source\repos\KampIntro\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\Cesur\source\repos\KampIntro\OOP2\bin\Debug\OOP2.exe
+C:\Users\Cesur\source\repos\KampIntro\OOP2\bin\Debug\OOP2.pdb
+C:\Users\Cesur\source\repos\KampIntro\OOP2\obj\Debug\OOP2.csproj.AssemblyReference.cache
+C:\Users\Cesur\source\repos\KampIntro\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\Cesur\source\repos\KampIntro\OOP2\obj\Debug\OOP2.exe
+C:\Users\Cesur\source\repos\KampIntro\OOP2\obj\Debug\OOP2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Cesur\source\repos\KampIntro\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\Cesur\source\repos\KampIntro\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\Cesur\source\repos\KampIntro\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\Cesur\source\repos\KampIntro\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+C:\Users\Cesur\source\repos\KampIntro\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Cesur\source\repos\KampIntro\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\Cesur\source\repos\KampIntro\Metotlar\obj\Debug\Metotlar.pdb

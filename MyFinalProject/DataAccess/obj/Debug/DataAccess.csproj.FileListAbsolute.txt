@@ -1,0 +1,9 @@
+C:\Users\Cesur\source\repos\MyFinalProject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Cesur\source\repos\MyFinalProject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Cesur\source\repos\MyFinalProject\DataAccess\bin\Debug\Entities.dll
+C:\Users\Cesur\source\repos\MyFinalProject\DataAccess\bin\Debug\Entities.pdb
+C:\Users\Cesur\source\repos\MyFinalProject\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Cesur\source\repos\MyFinalProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Cesur\source\repos\MyFinalProject\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Cesur\source\repos\MyFinalProject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Cesur\source\repos\MyFinalProject\DataAccess\obj\Debug\DataAccess.pdb

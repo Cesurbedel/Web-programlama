@@ -1,0 +1,7 @@
+C:\Users\Cesur\source\repos\KampIntro\KampIntro\bin\Release\KampIntro.exe.config
+C:\Users\Cesur\source\repos\KampIntro\KampIntro\bin\Release\KampIntro.exe
+C:\Users\Cesur\source\repos\KampIntro\KampIntro\bin\Release\KampIntro.pdb
+C:\Users\Cesur\source\repos\KampIntro\KampIntro\obj\Release\KampIntro.csproj.AssemblyReference.cache
+C:\Users\Cesur\source\repos\KampIntro\KampIntro\obj\Release\KampIntro.csproj.CoreCompileInputs.cache
+C:\Users\Cesur\source\repos\KampIntro\KampIntro\obj\Release\KampIntro.exe
+C:\Users\Cesur\source\repos\KampIntro\KampIntro\obj\Release\KampIntro.pdb

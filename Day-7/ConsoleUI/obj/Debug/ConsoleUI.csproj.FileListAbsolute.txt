@@ -1,0 +1,14 @@
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\bin\Debug\Business.dll
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\bin\Debug\DataAccess.dll
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\bin\Debug\Entities.dll
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\bin\Debug\Business.pdb
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\bin\Debug\DataAccess.pdb
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\bin\Debug\Entities.pdb
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Cesur\source\repos\MyFinalProject\ConsoleUI\obj\Debug\ConsoleUI.pdb

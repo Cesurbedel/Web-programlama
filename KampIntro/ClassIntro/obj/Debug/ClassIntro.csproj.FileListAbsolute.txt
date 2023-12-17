@@ -1,0 +1,7 @@
+C:\Users\Cesur\source\repos\KampIntro\ClassIntro\bin\Debug\ClassIntro.exe.config
+C:\Users\Cesur\source\repos\KampIntro\ClassIntro\bin\Debug\ClassIntro.exe
+C:\Users\Cesur\source\repos\KampIntro\ClassIntro\bin\Debug\ClassIntro.pdb
+C:\Users\Cesur\source\repos\KampIntro\ClassIntro\obj\Debug\ClassIntro.csproj.AssemblyReference.cache
+C:\Users\Cesur\source\repos\KampIntro\ClassIntro\obj\Debug\ClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\Cesur\source\repos\KampIntro\ClassIntro\obj\Debug\ClassIntro.exe
+C:\Users\Cesur\source\repos\KampIntro\ClassIntro\obj\Debug\ClassIntro.pdb
